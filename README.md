@@ -1,6 +1,8 @@
 # aynrandom
 Ayn Random Number Generator, because brogrammers aren’t politicized enough.
 
+![In a cavern deep below the Earth, Ayn Rand, Paul Ryan, Rand Paul, Ann Druyan, Paul Rudd, Alan Alda, and Duran Duran meet together in the Secret Council of /(\b[plurandy]+\b ?){2}/i.](https://raw.githubusercontent.com/mzappitello/aynrandom/master/ayn_random.png)
+
 ## Usage
 
 ```
